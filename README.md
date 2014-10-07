@@ -1,7 +1,7 @@
 moth01
 =================
 
-Application that mimics the behaviour of a moth to light.  When far away, it homes in on it but when too close, it moves away.  The project is quite awesome.
+Application that mimics the behaviour of a moth to light.  When far away, it homes in on it but when too close, it moves away.  The project is quite literally awesome.
 
 ### Project Information
 ```
