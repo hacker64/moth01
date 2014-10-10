@@ -29,7 +29,7 @@ int                         timeDelay = 0;
 str                         outString;
 
 macro                       TOOCLOSE 75
-macro                       NOLIGHT  10
+macro                       NOLIGHT  12
 
 
     syscall(motorset, "0:0");  
